@@ -1,8 +1,14 @@
+## 🛠️ Arquitetura.
+
+![Arquitetura](https://github.com/EricMencarini/Sistemas-Especialistas-Redes-Neurais/assets/133675044/8d031d82-1d14-4d19-9bc7-3a039fb73b71)
+
+
 ## 🛠️ Pré-requisitos.
 
 * Python versão3.11+
 * Pip
 * Utilize o comando pip install -r requirements.txt para importação das biblioteca.
+
 
 ## 🧠 Lógica de construção.
 
