@@ -1,5 +1,5 @@
 Algumas ideias de próximos passos 
 
 1- Automatizar entrada preenchida pelo google forms.
-2- Preencher lista automaticamente para gerar base de dedados.
+2- Preencher lista automaticamente para gerar base de de dados.
 3- Enviar por email gráfico com informações individuais das avaliações e/ou agrupadas para análise.
